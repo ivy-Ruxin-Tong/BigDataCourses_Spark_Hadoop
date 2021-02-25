@@ -1,5 +1,5 @@
-# Lists of Big Data courses completed (ongoing): 
+# Lists of online courses(ongoing): 
 
-#### 1- Spark-and-Python-for-Big-Data-with-PySpark 
+### Spark-and-Python-for-Big-Data-with-PySpark (completed)
   * Udemy Course about How to use PySpark - Data Cleaning/MLlib/Spark Streaming/NLP/Recommender System 
 
