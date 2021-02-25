@@ -61,7 +61,6 @@ Course Outline:
 * Recommender System
     * Introduction to Recommender Systems and Collaborative Filtering
     * Code Along Project - MovieLens Dataset
-    * Possible Consulting Project ? Company Service Reviews
     
 * Natural Language Processing
     * Introduction to Project/NLP/Naive Bayes Model
