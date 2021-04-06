@@ -8,4 +8,7 @@
  
 ### spaCy 
   *  Advanced NLP with spaCy (https://course.spacy.io/en/)
+  
+### SQL
+  * Window Functions (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5934434586508326/125601853433309/3642328818537138/latest.html)
 
